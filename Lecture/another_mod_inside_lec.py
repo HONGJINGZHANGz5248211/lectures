@@ -1,0 +1,1 @@
+from Lecture import mode_inside_lec
